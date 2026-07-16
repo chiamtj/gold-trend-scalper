@@ -1,0 +1,19 @@
+# MQL5 compiled files
+*.ex4
+*.ex5
+
+# MetaTrader cache
+__history/
+__ticks/
+tester/
+history/
+logs/
+cache/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Claude Code session files
+.claude/*.json
+.claude/settings.local.json
