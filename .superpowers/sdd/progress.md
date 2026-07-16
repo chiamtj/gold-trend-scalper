@@ -10,4 +10,4 @@
 | 4 | RiskManager.mqh | ✅ done | file verified | spec clean |
 | 5 | TradeManager.mqh | ✅ done | file verified | spec clean |
 | 6 | Dashboard.mqh | ✅ done | file verified | spec clean |
-| 7 | GoldScalper.mq5 | pending | - | - |
+| 7 | GoldScalper.mq5 | ✅ done | file verified | spec clean |
